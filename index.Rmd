@@ -1,24 +1,36 @@
 ---
 title: "Yuhan Xiao"
 image: "yuhanx.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "#C66060", height="1em", width="1em") ` LinkedIn'
     url: "https://www.linkedin.com/in/yuhan-xiao2/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "#C66060", height="1em", width="1em")` GitHub'
     url: "https://github.com/yuhanx-00"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "#C66060", height="1em", width="1em")` Email'
     url: "mailto:yxiao54@jh.edu"
+
 output:
-  postcards::solana
+  postcards::trestles
 ---
 
-## Bio
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+## About
+
+Hi everyone, my name is Yuhan. I'm a new ScM in Biostatistics student at Johns Hopkins Bloomberg School of Public Health (JHSPH). My research interests include causal inference, precision medicine, and clinical trials.
 
 Originally from China, I moved to Michigan four years ago to study mathematics at the University of Michigan. After completing my bachelor's degree, I worked as a statistical programmer specializing in health policy. It was during this time that I discovered my passion for data analysis and public health.
 
-I am excited to share that I have been accepted into the ScM in Biostatistics program at Johns Hopkins Bloomberg School of Public Health (JHSPH) and will begin my studies in fall 2023. I plan to delve into statistical theory, probability, and their applications in the biomedical sciences.
+Outside of school, I enjoy watching movies️, listening to music, and writing in my journals. One of my favorite TV shows is Friends.
 
-Outside of academia, I enjoy watching movies, listening to music, and writing in my journals. One of my favorite TV shows is Friends.
+## Education
+
+B.S. in Honors Mathematics | University of Michigan, Ann Arbor <br>
+Pre-Health Sciences | University of Washington, Seattle
+
+## Programming Experience
+
+Python, SAS, SQL <br>
+I'm new to both R and GitHub
