@@ -4,9 +4,9 @@ image: "yuhanx.jpg"
 faxicon: "faxicon.ico"
 links:
   - label: '`r fontawesome::fa("linkedin", fill = "#0F52BA", height="1em", width="1em") ` LinkedIn'
-    url: "https://www.linkedin.com/in/yuhan-xiao2/"
+    url: "https://www.linkedin.com/in/yuhanxiao20/"
   - label: '`r fontawesome::fa("github", fill = "#0F52BA", height="1em", width="1em")` GitHub'
-    url: "https://github.com/yuhanx-00"
+    url: "https://github.com/yuhanxiao20"
   - label: '`r fontawesome::fa("envelope", fill = "#0F52BA", height="1em", width="1em")` Email'
     url: "mailto:yuhanxiao20@gmail.com"
 
