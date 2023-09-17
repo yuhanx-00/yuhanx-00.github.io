@@ -11,7 +11,7 @@ links:
     url: "mailto:yuhanxiao20@gmail.com"
 
 output:
-  postcards::trestles 
+  postcards::trestles
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
