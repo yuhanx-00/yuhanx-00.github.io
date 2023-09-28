@@ -33,5 +33,4 @@ Pre-Health Sciences | University of Washington, Seattle
 
 ### Programming Experience
 
-Python, SAS, SQL <br>
-I'm new to both R and GitHub
+R, Python, SAS, SQL <br>
